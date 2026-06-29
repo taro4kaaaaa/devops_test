@@ -1,4 +1,4 @@
-### Effective Mobile DevOps Test
+## Effective Mobile DevOps Test
 
 Тестовое задание на позицию DevOps-инженера.
 
@@ -14,7 +14,6 @@
 ├── nginx
 │   └── nginx.conf
 ├── docker-compose.yml
-├── .gitignore
 └── README.md
 ```
 
